@@ -1,6 +1,6 @@
 let favSingers = ['Bruno Mars','James Arthur', 'Arthur Nery'];
 
-console.log(favSingers[0]); // Bruno Mars if you enter 1 the output will be James Arthur
+console.log(favSingers[0]); // Output Bruno Mars:  if you enter 1 the output will be James Arthur
 
 let favNums = [11, 20, 24, 99];
 
